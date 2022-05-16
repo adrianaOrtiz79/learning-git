@@ -1,1 +1,6 @@
-git console hello
+nuevo contenido dentro del archivo
+con multiples lineas
+agregar lineas directo en git como si fuera la colaboracion
+de otro miembro
+para provocar un error
+esta linea es nueva

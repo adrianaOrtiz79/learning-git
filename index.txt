@@ -1,5 +1,7 @@
 nuevo contenido dentro del archivo
 con multiples lineas
 agregar lineas directo en git como si fuera la colaboracion
+esta linea es nueva
 para provocar un error
+
 
